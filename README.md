@@ -136,9 +136,9 @@ Under Graduation: BTech, Computer Science Engineering with Specialization in Dat
 
 **Future Improvements**:
 
- Add RAG pipelines for multi-document search.
+*  Add RAG pipelines for multi-document search.
   
- Fine-tune models on domain-specific corpora for higher accuracy.
+* Fine-tune models on domain-specific corpora for higher accuracy.
 
  **- AI Study Planner – Data Annotation & Management (June 2025)**
 
