@@ -135,74 +135,66 @@ Automate the process of generating accurate image tags and captions using AI mod
 
 **Future Improvements**:
 
-* Add RAG pipelines for multi-document search.
+ Add RAG pipelines for multi-document search.
   
-* Fine-tune models on domain-specific corpora for higher accuracy.
+ Fine-tune models on domain-specific corpora for higher accuracy.
 
  **- AI Study Planner – Data Annotation & Management (June 2025)**
 
 **Objective**:
 
-*Create an AI-powered planner to manage, prioritize, and track study tasks with smart suggestions and reminders.
-
-**Tech & Requirements**:
-
-*React, Node.js, MongoDB → Full-stack web app
-
-*AI APIs → Task prioritization and reminder logic
-
-*Netlify → Deployment platform
+* Create an AI-powered planner to manage, prioritize, and track study tasks with smart suggestions and reminders.
 
 **Workflow Features**:
 
-*Intelligent task scheduling and suggestion system.
+* Intelligent task scheduling and suggestion system.
 
-AI Study Planner – Data Annotation & Management (Jun 2025)
+* AI Study Planner – Data Annotation & Management (Jun 2025)
 
 **Objective**:
-Create an AI-powered planner to manage, prioritize, and track study tasks with smart suggestions and reminders.
+* Create an AI-powered planner to manage, prioritize, and track study tasks with smart suggestions and reminders.
 
 **Tech & Requirements**:
 
-*React, Node.js, MongoDB → Full-stack web app
+* React, Node.js, MongoDB → Full-stack web app
 
-*AI APIs → Task prioritization and reminder logic
+* AI APIs → Task prioritization and reminder logic
 
-*Netlify → Deployment platform
+* Netlify → Deployment platform
 
 **Workflow Features**:
 
 *Intelligent task scheduling and suggestion system.
 
-*Dark/light mode with fully responsive design.
+* Dark/light mode with fully responsive design.
 
-*CRUD operations for study plans and annotation tracking.
-
-**Learnings**:
-
-*Data-driven task prioritization enhances productivity.
-
-*MongoDB simplifies data management for dynamic dashboards.
-
-**Future Improvements**:
-
-*Integrate speech-based task input.
-
-*Add progress visualization using charts and analytics.Dark/light mode with fully responsive design.
-
-*CRUD operations for study plans and annotation tracking.
+* CRUD operations for study plans and annotation tracking.
 
 **Learnings**:
 
-*Data-driven task prioritization enhances productivity.
+* Data-driven task prioritization enhances productivity.
 
-*MongoDB simplifies data management for dynamic dashboards.
+* MongoDB simplifies data management for dynamic dashboards.
 
 **Future Improvements**:
 
-*Integrate speech-based task input.
+* Integrate speech-based task input.
 
-*Add progress visualization using charts and analytics.
+* Add progress visualization using charts and analytics.Dark/light mode with fully responsive design.
+
+* CRUD operations for study plans and annotation tracking.
+
+**Learnings**:
+
+* Data-driven task prioritization enhances productivity.
+
+* MongoDB simplifies data management for dynamic dashboards.
+
+**Future Improvements**:
+
+- Integrate speech-based task input.
+
+- Add progress visualization using charts and analytics.
 
  **Certifications**: 
  -  Spring Boot 3 Framework
