@@ -73,9 +73,10 @@ Under Graduation: BTech, Computer Science Engineering with Specialization in Dat
 **- Automated Media Tagger (Oct 2025)**
 
 **Objective**:
-Automate the process of generating accurate image tags and captions using AI models, reducing manual labeling time and improving dataset consistency.
 
-**Tech & Requirement**s:
+* Automate the process of generating accurate image tags and captions using AI models, reducing manual labeling time and improving dataset consistency.
+
+**Tech & Requirementa**:
 
 * Python, PyTorch → Core model development
   
