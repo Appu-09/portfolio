@@ -34,6 +34,7 @@ Under Graduation: BTech, Computer Science Engineering with Specialization in Dat
 
 
 **Projects**
+
 **- Motion Blur Corrected Number Plate Recognition with Image Enhancement (Dec 2024)**
 
 **Objective**:
