@@ -11,9 +11,7 @@ Under Graduation: BTech, Computer Science Engineering with Specialization in Dat
 # Technical Skill 
 **Operating System** : Windows
 
-**Programming & Tools**: Python, SQL, Java, OpenCV, PyTorch, HuggingFace Transformers, Sentence
-
-Transformers, FAISS, Gradio, Streamlit, NumPy, Pandas, Git/GitHub, JavaScript, Excel/Sheets
+**Programming & Tools**: Python, SQL, Java, OpenCV, PyTorch, HuggingFace Transformers, Sentence Transformers, FAISS, Gradio, Streamlit, NumPy, Pandas, Git/GitHub, JavaScript, Excel/Sheets
 
 **AI/ML & NLP**: Supervised Learning, Unsupervised Learning, Feature Engineering, Text Classification, Sentimental Analysis, Model Evaluation, Retrieval-Augmented Generation (RAG), Embedding Models
 
