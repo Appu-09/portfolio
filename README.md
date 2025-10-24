@@ -8,7 +8,17 @@ Woxsen University, Hyderabad  [2020  – 2024]
 
 Under Graduation: BTech, Computer Science Engineering with Specialization in Data Science and Artificial Intelligence
 
-# Technical Skill 
+# Experience
+**Effigo | Software Developer Intern**  
+*Jan 2023 – July 2023 | Hyderabad, India*  
+- Developed and deployed RESTful microservices using Java, Spring Boot, and PostgreSQL, improving system response by 20% and reducing production issues by 30%.
+  
+- Increased unit test coverage from 60% to 85% using JUnit, TestNG, and Mockito.
+ 
+- Migrated legacy applications to Spring Boot and React, enhancing performance and maintainability.
+
+
+# Technical Skills 
 **Operating System** : Windows
 
 **Programming & Tools**: Python, SQL, Java, OpenCV, PyTorch, HuggingFace Transformers, Sentence Transformers, FAISS, Gradio, Streamlit, NumPy, Pandas, Git/GitHub, JavaScript, Excel/Sheets
