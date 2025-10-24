@@ -1,7 +1,4 @@
-# portfolio
-#AI/ML Engineer | Specializing in LLMs, RAG & Automation
-#View the Project on [GitHub](https://github.com/Appu-09/portfolio)**  
-`Appu-09/portfolio`
+`
 
 # Portfolio
 # About Me
