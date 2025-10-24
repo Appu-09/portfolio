@@ -204,4 +204,9 @@ Create an AI-powered planner to manage, prioritize, and track study tasks with s
 
 *Add progress visualization using charts and analytics.
 
-
+ **Certifications**: 
+ -  Spring Boot 3 Framework
+ - Coursera- Data Analysis using Python
+ - Coursera- Computer Vision with OpenCV- 
+ - IBM- Data Analysis using Python
+ - Udemy- The Complete Java Development BootCamp
